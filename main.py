@@ -1,10 +1,9 @@
 import requests
 import time
-title = """
-This Is 100% free Source will be on github
+title = """This Is 100% free Source will be on github
 found at github.com/tubbytoons
  
- Black Jack Auto spin
+Black Jack Auto spin
 """
 time.sleep(1)
 print(title)
